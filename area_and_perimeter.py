@@ -2,8 +2,8 @@
 
 # Created by: Michael Clermont
 # Created on: Feb 2022
-# This program calculates the area and perimeter of a circle
-#    with radius of 15 mm and user input
+# This program calculates the area and perimeter of a rectangle
+#    with radius inputted by the user
 
 import math
 
