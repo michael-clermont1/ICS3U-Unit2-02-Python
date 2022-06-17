@@ -5,8 +5,6 @@
 # This program calculates the area and perimeter of a rectangle
 #    with radius inputted by the user
 
-import math
-
 
 def main():
     # this function calculates the area and perimeter
